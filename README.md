@@ -6,3 +6,4 @@
   [][Exercise 6](https://www.zybuluo.com/dewey777/note/542376)
   [][Exercise 7](https://www.zybuluo.com/dewey777/note/557945)
   [][Exercise 8](https://www.zybuluo.com/dewey777/note/565976)
+  [][Exercise 9](https://www.zybuluo.com/dewey777/note/573635)
